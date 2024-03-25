@@ -13,13 +13,22 @@
 
 </div>
 
-I'm a computer scientist, researcher and tenacious problem solver.
-My main interests are information security, distributed systems and blockchains. 
-Recently, my work has been focused on cross-chain communication and the Inter-Blockchain Communication Protocol (IBC).
+![Cyberpunk gif](assets/cyberpunk_samurai.gif?raw=true)
 
+I'm a computer scientist and researcher from Brazil 🇧🇷, currently living in Australia 🇦🇺.
+
+- 🎓 I have a Bachelor's degree in Computer Science and a PhD in Information Technology.
+
+- 📚 My main interests are **information security, distributed systems and blockchains**. 
+
+- ⛓️ Recently, my research has been focused on cross-chain communication and contributing to the IBC protocol (https://github.com/cosmos/ibc).
+  
+
+<div align="center"> 
+  
 [![Top Langs](https://github-readme-stats-joaotavs-projects.vercel.app/api/top-langs/?username=joaotav&layout=compact&theme=transparent&hide_progress=true)](https://github.com/joaotav/github-readme-stats)
 
-
+</div>
   
 <h2> 🔧 Some of the tech on my toolbelt: </h2>
 <p align="left">
@@ -37,3 +46,7 @@ Recently, my work has been focused on cross-chain communication and the Inter-Bl
 <img src="assets/latex-original.svg" alt="latex" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />        
 </p>
+
+<h3> 🤯 Fun facts: <h3/>
+
+- [Did you know that a significant part of the internet is secured by pictures of lava lamps?](https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/)
