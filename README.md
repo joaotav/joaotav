@@ -49,3 +49,4 @@ I'm a computer scientist and researcher from Brazil 🇧🇷, currently living i
 <h3> 🤯 Fun facts: <h3/>
 
 - [Did you know that a significant part of the internet is secured by pictures of lava lamps?](https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/)
+- [Did you know that the first internet-connected camera was setup to watch a coffee pot?](https://www.cl.cam.ac.uk/coffee/qsf/cacm200107.html)
