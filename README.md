@@ -1,4 +1,4 @@
-### Hello, my name is João!
+### Hello World, my name is João!
 
 I'm a computer scientist, researcher and tenacious problem solver.
 My main interests are information security, distributed systems and blockchains. 
