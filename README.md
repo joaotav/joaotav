@@ -1,10 +1,8 @@
----
 
 <div align="center"> 
-  <h3> 🔹 Hello World, my name is João! 🔹 </h3> 
+  <h3> 🔹🔹🔹🔹 Hello World! My name is João. 🔹🔹🔹🔹 </h3> 
 </div>
 
----
 
 <div align="center"> 
   
