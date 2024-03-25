@@ -13,7 +13,7 @@
 
 </div>
 
-I'm a computer scientist, researcher and tenacious problem solver. I am interested in information security, distributed systems and blockchains. 
+I'm a computer scientist, researcher and tenacious problem solver.
 My main interests are information security, distributed systems and blockchains. 
 Recently, my work has been focused on cross-chain communication and the Inter-Blockchain Communication Protocol (IBC).
 
