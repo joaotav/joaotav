@@ -1,4 +1,6 @@
-### Hello World, my name is João!
+<div align="center"> 
+  <h3> 🔹 Hello World, my name is João! 🔹 </h3>
+</div>
 
 I'm a computer scientist, researcher and tenacious problem solver.
 My main interests are information security, distributed systems and blockchains. 
