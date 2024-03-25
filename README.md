@@ -20,7 +20,7 @@ I'm a computer scientist and researcher from Brazil 🇧🇷, currently living i
 
 - 📚 My main interests are **information security, distributed systems and blockchains**. 
 
-- ⛓️ Recently, my research has been focused on cross-chain communication and contributing to the IBC protocol (https://github.com/cosmos/ibc).
+- ⛓️ Recently, my research has been focused on improving cross-chain communication and contributing to the IBC protocol (https://github.com/cosmos/ibc).
   
 
 <div align="center"> 
