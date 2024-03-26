@@ -1,19 +1,19 @@
 
 <div align="center"> 
   <img src="assets/hello_world.gif?raw=true">
+
+  [![LinkedIn](https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaochervinski/)](https://www.linkedin.com/in/joaochervinski/)
+  [![GitHub](https://img.shields.io/badge/-@joaotav-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/joaotav)](https://github.com/joaotav)
+  [![Google Scholar](https://img.shields.io/badge/Check%20out%20my%20research%20on%20Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&link=https://scholar.google.com.au/citations?hl=en&user=AQ3uC20AAAAJ&view_op=list_works)](https://scholar.google.com.au/citations?hl=en&user=AQ3uC20AAAAJ&view_op=list_works)
+
 </div>
 
 <div align="center"> 
   
-[![LinkedIn](https://img.shields.io/badge/-Connect%20with%20me%20on%20LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaochervinski/)](https://www.linkedin.com/in/joaochervinski/)
-[![Google Scholar](https://img.shields.io/badge/Check%20out%20my%20research%20on%20Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com.au/citations?hl=en&user=AQ3uC20AAAAJ&view_op=list_works)](https://scholar.google.com.au/citations?hl=en&user=AQ3uC20AAAAJ&view_op=list_works)
-
 <img src="assets/cyberpunk_samurai.gif?raw=true" width="420" height="300">
 
+
 </div>
-
-
-
 I'm a computer scientist and researcher from Brazil 🇧🇷, currently living in Australia 🇦🇺.
 
 - I have a **Bachelor's degree in Computer Science** and a **PhD in Information Technology**.
@@ -25,7 +25,8 @@ I'm a computer scientist and researcher from Brazil 🇧🇷, currently living i
 - I take pride in tackling coding challenges that push the boundaries of my knowledge.
 
 - Recently, my research has been focused on improving cross-chain communication and contributing to the IBC protocol (https://github.com/cosmos/ibc).
-  
+
+
 
 <div align="center"> 
   
