@@ -1,6 +1,6 @@
 
 <div align="center"> 
-  <h3> 🔹🔹🔹🔹 Hello World! My name is João. 🔹🔹🔹🔹 </h3> 
+  <img src="assets/hello_world.gif?raw=true">
 </div>
 
 <div align="center"> 
@@ -16,11 +16,11 @@
 
 I'm a computer scientist and researcher from Brazil 🇧🇷, currently living in Australia 🇦🇺.
 
-- 🎓 I have a **Bachelor's degree in Computer Science** and a **PhD in Information Technology**.
+- I have a **Bachelor's degree in Computer Science** and a **PhD in Information Technology**.
 
-- 📚 My main interests are **information security, distributed systems and blockchains**. 
+- My main interests are **information security, distributed systems and blockchains**. 
 
-- ⛓️ Recently, my research has been focused on improving cross-chain communication and contributing to the IBC protocol (https://github.com/cosmos/ibc).
+-  Recently, my research has been focused on improving cross-chain communication and contributing to the IBC protocol (https://github.com/cosmos/ibc).
   
 
 <div align="center"> 
