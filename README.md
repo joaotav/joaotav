@@ -35,7 +35,7 @@ I'm a computer scientist and researcher from Brazil 🇧🇷, currently living i
 </div>
   
 <h2> 🔧 Some of the tech on my toolbelt: </h2>
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="atom" width="45" height="45" />       
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
