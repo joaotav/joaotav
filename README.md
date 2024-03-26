@@ -18,9 +18,13 @@ I'm a computer scientist and researcher from Brazil 🇧🇷, currently living i
 
 - I have a **Bachelor's degree in Computer Science** and a **PhD in Information Technology**.
 
-- My main interests are **information security, distributed systems and blockchains**. 
+- My main interests are **information security, distributed systems and blockchains**.
 
--  Recently, my research has been focused on improving cross-chain communication and contributing to the IBC protocol (https://github.com/cosmos/ibc).
+- I am driven by curiosity and have a tenacious approach to problem-solving.
+
+- I take pride in tackling coding challenges that push the boundaries of my knowledge.
+
+- Recently, my research has been focused on improving cross-chain communication and contributing to the IBC protocol (https://github.com/cosmos/ibc).
   
 
 <div align="center"> 
@@ -52,3 +56,4 @@ I'm a computer scientist and researcher from Brazil 🇧🇷, currently living i
 
 - [A significant part of the internet is secured by pictures of lava lamps](https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/)
 - [The first internet-connected camera was set up to watch a coffee pot](https://www.cl.cam.ac.uk/coffee/qsf/cacm200107.html)
+- [You can still browse the world's first website, created by Tim Berners-Lee at CERN](http://info.cern.ch/)
