@@ -20,8 +20,7 @@ I'm a computer scientist and researcher from Brazil 🇧🇷, currently living i
 
 - I take pride in tackling coding challenges that push the boundaries of my knowledge.
 
-- Recently, my research has been focused on improving cross-chain communication and contributing to the IBC protocol (https://github.com/cosmos/ibc).
-
+- Recently, my work has been focused on cross-chain communication and contributing to the IBC protocol through research and engineering (https://github.com/cosmos/ibc).
 
 
 <div align="center"> 
