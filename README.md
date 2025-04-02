@@ -25,7 +25,7 @@ I'm a computer scientist and researcher from Brazil 🇧🇷, currently living i
 
 <div align="center"> 
   
-[![Top Langs](https://github-readme-stats-joaotavs-projects.vercel.app/api/top-langs/?username=joaotav&layout=compact&theme=transparent&hide_progress=true)](https://github.com/joaotav/github-readme-stats)
+[![Top Langs](https://github-readme-stats-theta-dusky-54.vercel.app/api/top-langs/?username=joaotav&layout=compact&theme=transparent&hide_progress=true)](https://github.com/joaotav/github-readme-stats)
 
 </div>
   
