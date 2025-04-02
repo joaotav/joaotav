@@ -12,13 +12,13 @@
 
 I'm a computer scientist and researcher from Brazil 🇧🇷, currently based in Australia 🇦🇺.
 
-- PhD in Information Technology | Bachelor's in Computer Science
+- **PhD in Information Technology** | **Bachelor's in Computer Science**
 
-- Focused on information security, distributed systems, and blockchain technology.
+- Focused on distributed systems, blockchain technology and information security.
 
 - Currently working on cross-chain communication and contributing to the Interchain Ecosystem and IBC protocol.
 
-- I really enjoy learning while solving complex problems and expanding my technical skills.
+- I enjoy tinkering with code, experimenting with new ideas and continuously learning.
 
 <div align="center"> 
   
